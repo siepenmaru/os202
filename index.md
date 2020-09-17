@@ -1,7 +1,6 @@
 ---
 ---
 
-[WEB](https://.github.io/os202/)
 [GitHub](https://github.com/siepenmaru/os202/)
 
 <br>
