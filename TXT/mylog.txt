@@ -11,3 +11,5 @@ L06 Reading Refereces/Books/Documents
 L07 Demo related
 L08 Trying something
 L99 Other (...)
+========================================
+ZCZC W00  60 L06 Reading through textbook
