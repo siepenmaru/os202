@@ -12,6 +12,7 @@
 # Operating Systems Weekly Top Ten List
 <br>
 * [Week 00](/w00.md)
+* [Week 01](/w01.md)
 
 -- Avatar Azka
 
