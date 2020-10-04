@@ -9,15 +9,14 @@
 <br>
 <hr>
 <br>
-<p style="text-align: center;"><img src="bongocat.gif" width="128"></p>
-<br>
 # Operating Systems Weekly Top Ten List
 <br>
 * [Week 00](/w00.md)
 * [Week 01](/w01.md)
 * [Week 02](/w02.md)
 <br>
-# ¯\\_(ツ)_/¯
+<p style="text-align: center;"><img src="bongocat.gif" width="128"></p><br>
+<p style="text-align: center;"># ¯\\_(ツ)_/¯</p>
 
 -- Avatar Azka
 
