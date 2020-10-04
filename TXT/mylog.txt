@@ -13,3 +13,7 @@ L08 Trying something
 L99 Other (...)
 ========================================
 ZCZC W00  60 L06 Reading through textbook
+ZCZC W02  60 L06 Reading through textbook
+ZCZC W02 120 L08 Moved to Manjaro Linux on PC (no more windows)
+ZCZC W02  45 L01 Attempting assignments
+ZCZC L05  60 L05 Browsing for Weekly Top 10 Material

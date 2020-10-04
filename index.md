@@ -13,6 +13,9 @@
 <br>
 * [Week 00](/w00.md)
 * [Week 01](/w01.md)
+* [Week 02](/w02.md)
+<br>
+# ¯\_(ツ)_/¯
 
 -- Avatar Azka
 
