@@ -9,7 +9,7 @@
 <br>
 <hr>
 <br>
-<p style="text-align: center;"><img src="bongocat.gif" width="256"></p>
+<p style="text-align: center;"><img src="bongocat.gif" width="128"></p>
 <br>
 # Operating Systems Weekly Top Ten List
 <br>
