@@ -16,7 +16,7 @@
 * [Week 02](/w02.md)
 <br>
 <p style="text-align: center;"><img src="bongocat.gif" width="128"></p><br>
-<p style="text-align: center;"># ¯\\_(ツ)_/¯</p>
+#<p style="text-align: center;">¯\\_(ツ)_/¯</p>
 
 -- Avatar Azka
 
