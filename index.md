@@ -5,7 +5,7 @@
 <br>
 # Avatar Azka's Operating Systems Course Page
 <br>
-# [My Log](TXT/mylog.txt)
+# [My Log](TXT/mylog.txt) | [My Weekly Top 3 List](TXT/myrank.txt) | [My Public Key](TXT/mypubkey.txt) | [My Script](TXT/myscript.sh) | [SHA256SUM](TXT/SHA256SUM) | [SHA256SUM.asc](TXT/SHA256SUM.asc)
 <br>
 <hr>
 <br>
