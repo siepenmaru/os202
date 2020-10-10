@@ -37,3 +37,10 @@ ZCZC W02 120 L08 Moved to Manjaro Linux on PC (no more windows!)
 ZCZC W02  45 L12 Attempting assignments
 ZCZC W02  60 L05 Browsing for Weekly Top 10 Material
 ZCZC W02  90 L04 Writing Week 2 Top 10
+ZCZC W03  45 L01 Answering forum questions
+ZCZC W03 120 L13 Attempting assignments
+ZCZC W03  45 L06 Light Reading
+ZCZC W03  60 L05 Weekly research
+ZCZC W03  30 L22 Saw a video about TempleOS
+ZCZC W03  30 L08 Trying to fix video driver error on Manjaro/KDE
+ZCZC W03  90 L03 Writing Week 3 Top 10
