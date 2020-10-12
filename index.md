@@ -18,7 +18,7 @@
 <br>
 <p style="text-align: center;"><img src="bongocat.gif" width="128"></p>
 <br>
-# ¯\\_(ツ)_/¯
+# ¯\\_(ツ)\_/¯
 
 -- Avatar Azka
 
