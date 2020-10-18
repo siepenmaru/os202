@@ -44,3 +44,8 @@ ZCZC W03  60 L05 Weekly research
 ZCZC W03  30 L22 Saw a video about TempleOS
 ZCZC W03  30 L08 Trying to fix video driver error on Manjaro/KDE
 ZCZC W03  90 L03 Writing Week 3 Top 10
+ZCZC W04 180 L21 Trying out various linux distributions (VM)
+ZCZC W04  90 L06 Reading OS textbook
+ZCZC W04  45 L14 Trying out assignments
+ZCZC W05  45 L05 Browsing for Top 10 material
+ZCZC W04 120 L03 Writing Week 4 Top 10

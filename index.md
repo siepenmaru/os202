@@ -9,6 +9,11 @@
 <br>
 <hr>
 <br>
+```javascript
+bool living = true;
+while (living) learn();
+```
+<br>
 # Operating Systems Weekly Top Ten List
 <br>
 * [Week 00](/w00.md)
