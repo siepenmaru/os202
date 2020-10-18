@@ -10,7 +10,7 @@
 <hr>
 <br>
 ```javascript
-bool living = true;
+boolean living = true;
 while (living) learn();
 ```
 <br>
