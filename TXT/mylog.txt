@@ -47,5 +47,11 @@ ZCZC W03  90 L03 Writing Week 3 Top 10
 ZCZC W04 180 L21 Trying out various linux distributions (VM)
 ZCZC W04  90 L06 Reading OS textbook
 ZCZC W04  45 L14 Trying out assignments
-ZCZC W05  45 L05 Browsing for Top 10 material
+ZCZC W04  45 L05 Browsing for Top 10 material
 ZCZC W04 120 L03 Writing Week 4 Top 10
+ZCZC W05  45 L06 Reading OS material
+ZCZC W05  10 L10 Updating week 5 github pages ranking
+ZCZC W05  45 L05 Doing week 5 assignments
+ZCZC W05  30 L25 Studying the C language
+ZCZC W05 120 L03 Writing Week 5 top 10 list
+ZCZC W05  15 L15 Trying out assignments
