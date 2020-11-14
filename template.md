@@ -1,10 +1,10 @@
 ---
-permalink: /WXX/
+permalink: /WCHANGETHIS!!!/
 ---
 [HOME](../)
 
 <br>
-# Top 10 List of Week XX
+# Top 10 List of Week CHANGETHIS!!!
 
 1. []()<br>
 

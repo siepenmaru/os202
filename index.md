@@ -22,6 +22,7 @@ while (living) learn();
 * [Week 03](/w03.md)
 * [Week 04](/w04.md)
 * [Week 05](/w05.md)
+* [Week 06](/w06.md)
 <br>
 <p style="text-align: center;"><img src="bongocat.gif" width="128"></p>
 <br>

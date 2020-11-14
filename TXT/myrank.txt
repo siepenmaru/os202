@@ -11,5 +11,5 @@ ZCZC W05 saddamonpc
 ZCZC W05 wienaamanda
 ZCZC W05 setoaprasetyo
 ZCZC W06 saddamonpc
-ZCZC W06 setoaprasetyo
+ZCZC W06 wienaamanda
 ZCZC W06 TBD (so far only 2 have completed their lists)
