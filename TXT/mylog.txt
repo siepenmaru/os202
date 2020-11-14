@@ -55,3 +55,10 @@ ZCZC W05  45 L05 Doing week 5 assignments
 ZCZC W05  30 L25 Studying the C language
 ZCZC W05 120 L03 Writing Week 5 top 10 list
 ZCZC W05  15 L15 Trying out assignments
+ZCZC W06 120 L99 Post-UTS cooldown
+ZCZC W06  60 L25 Trying out C exercises online
+ZCZC W06  30 L06 Reading week 06 slides
+ZCZC W06  60 L25 Studying C language features (sleep, wait, etc)
+ZCZC W06  10 L10 Ranking github pages
+ZCZC W06  30 L16 Trying out assignment
+ZCZC W06  75 L05 Browsing for Top 10 material
