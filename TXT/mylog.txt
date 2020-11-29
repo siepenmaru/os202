@@ -73,3 +73,10 @@ ZCZC W07  30 L05 Browsing for week 07 top 10 material
 ZCZC W07 120 L03 Writing week 07 top 10 list
 ZCZC W07  60 L99 Learning more about godot
 ZCZC W07  10 L10 Ranking github pages
+ZCZC W08  40 L06 Reading through week 08 slides
+ZCZC W08  30 L05 Reading LinuxFromScratch guide on their website
+ZCZC W08  45 L06 Reading OSC10 chapter 5
+ZCZC W08 120 L18 Created new debian vm for assignment, finished assignment
+ZCZC W08  15 L05 Searching for top 10 list material
+ZCZC W08  90 L03 Writing Week 8 top 10
+ZCZC W08  10 L10 Ranking github pages

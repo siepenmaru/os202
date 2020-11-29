@@ -16,3 +16,6 @@ ZCZC W06 yolandawsirait
 ZCZC W07 saddamonpc
 ZCZC W07 yolandawsirait
 ZCZC W07 setoaprasetyo
+ZCZC W08 yolandawsirait
+ZCZC W08 setoaprasetyo
+ZCZC W08 saddamonpc
