@@ -80,3 +80,10 @@ ZCZC W08 120 L18 Created new debian vm for assignment, finished assignment
 ZCZC W08  15 L05 Searching for top 10 list material
 ZCZC W08  90 L03 Writing Week 8 top 10
 ZCZC W08  10 L10 Ranking github pages
+ZCZC W09 ??? L19 Finishing assignment (time not recorded, est. >3hrs)
+ZCZC W09  15 L05 Searching for top 10 list material
+ZCZC W09  30 L22 Watched video on Arch linux and LFS
+ZCZC W09  10 L10 Ranking github pages
+ZCZC W09  45 L06 Reading OSC textbook chapter 11 
+ZCZC W09  75 L03 Writing Week 9 top 10 list
+ZCZC W09  90 L99 Working on side projects (Godot, etc.)
