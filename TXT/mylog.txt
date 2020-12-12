@@ -87,3 +87,10 @@ ZCZC W09  10 L10 Ranking github pages
 ZCZC W09  45 L06 Reading OSC textbook chapter 11 
 ZCZC W09  75 L03 Writing Week 9 top 10 list
 ZCZC W09  90 L99 Working on side projects (Godot, etc.)
+ZCZC W10  45 L06 Reading OSC textbook and LFS website
+ZCZC W10 120 L20 Working on assignment
+ZCZC W10  15 L05 Searching for week 10 top 10 material
+ZCZC W10 120 L99 Speedrunning various homework
+ZCZC W10  30 L22 Youtube break
+ZCZC W10  45 L03 Writing top 10 list
+ZCZC W10  10 L10 Ranking github pages
